@@ -36,3 +36,7 @@ build/
 # Local Environment Secrets
 .env
 .env
+*.pdf
+*.jpg
+*.jpeg
+downloads/
